@@ -7,7 +7,7 @@
 
 Sou apaixonada por tecnologia e qualidade de software.
 
-💼 Tenho mais de **2 anos e meio de experiência como QA Manual**, atuando com:
+💼 Tenho mais de **2 anos e 11 meses de experiência como QA Manual**, atuando com:
 - Testes funcionais  
 - Testes de regressão  
 - Teste de usabilidade  
